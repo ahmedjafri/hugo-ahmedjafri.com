@@ -1,0 +1,22 @@
+baseurl = "http://ahmedjafri.com/"
+languageCode = "en-us"
+title = "ahmedjafri"
+theme = "vec"
+
+[menu]
+  # Shown in the menu.
+  [[menu.main]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.main]]
+    name = "contact"
+    weight = 1
+    url = "/contact"
+
+[params]
+  Keywords = "ahmed,jafri"
+  Description = "My personal website"
+
+  SoundCloudClientID = "e8d7520deac9c6d3f25a01fd60e843d8"
+  SoundCloudSoundsUrl = "https://api.soundcloud.com/users/4246445/favorites"
