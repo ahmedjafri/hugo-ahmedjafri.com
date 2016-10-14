@@ -1,0 +1,23 @@
+{
+  "name": "hugo-ahmedjafri.com-vec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedjafri/hugo-ahmedjafri.com.git"
+  },
+  "author": "Ahmed Jafri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedjafri/hugo-ahmedjafri.com/issues"
+  },
+  "homepage": "https://github.com/ahmedjafri/hugo-ahmedjafri.com#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
